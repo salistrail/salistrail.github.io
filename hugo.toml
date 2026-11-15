@@ -173,7 +173,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Tech"
 weight = 2
-url = "posts/"
+url = "tech/"
 
 [[languages.en.menu.main]]
 name = "Musings"

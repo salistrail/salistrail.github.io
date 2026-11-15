@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Teches on Salis</title>
+		<link>http://localhost:1313/tech/</link>
+		<description>Recent content in Teches on Salis</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Entropy Cross-entropy and mathematical meaning of information</title>
+				<link>http://localhost:1313/tech/2020-06-23-entropy-cross-entropy-and-mathematical-meaning-of-information/</link>
+				<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tech/2020-06-23-entropy-cross-entropy-and-mathematical-meaning-of-information/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;I this article I tried to present a classical and in-depth explanation of &lt;em&gt;entropy&lt;/em&gt; and &lt;em&gt;cross-entropy&lt;/em&gt; and their relationships with uncertainty or probability.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;information-and-uncertainty&#34;&gt;Information and Uncertainty&lt;/h2&gt;&#xA;&lt;p&gt;Would you really be surprised if I told you that tomorrow sun will rise from east? In another scenario, how would you react if you came to know that a military chopper is going to land on your neighbourhood? There is no doubt that former event is certainly going to happen, and your reply might be, &amp;ldquo;Well !!, What&amp;rsquo;s new into that?&amp;rdquo; and in a latter situation you might come out of your home exclaiming &amp;ldquo;Wait.. What.. Chopper!! When, Why, Does anyone have any clue?&amp;rdquo;. Now think again, which event carries more information for you? Here, considering information as a meaning rather than as an amount of information, would really help to establish a connection between information and uncertainty.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
