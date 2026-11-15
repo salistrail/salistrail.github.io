@@ -5,3 +5,6 @@
 Gemfile.lock
 _site
 *.gem
+# Hugo generated output
+/public/
+/resources/_gen/
