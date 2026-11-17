@@ -50,7 +50,7 @@ hideCopyright = true
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 
@@ -214,4 +214,3 @@ url = "projects/"
 name = "Contato"
 weight = 5
 url = "contact/"
-
